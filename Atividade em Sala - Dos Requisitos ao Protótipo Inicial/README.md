@@ -24,7 +24,7 @@ O protótipo foi desenvolvido de forma intencionalmente simples, com foco em **d
 
 O protótipo apresenta no terminal quais vagas estão atualmente disponíveis.
 
-### RF03 — Identificação das vagas reservadas
+### RF04 — Identificação das vagas reservadas
 
 > Como aluno, quero saber quais vagas são reservadas para funcionários, principalmente próximas à biblioteca, para evitar estacionar em uma vaga que não é destinada aos alunos.
 
@@ -39,7 +39,7 @@ Atividade em Sala - Dos Requisitos ao Protótipo Inicial/
 │
 ├── main.py
 ├── rf01_vagas.py
-├── rf03_reservadas.py
+├── rf04_reservadas.py
 ├── requisitos.txt
 ├── README.md
 └── GIT.md
@@ -55,7 +55,7 @@ Contém a implementação do **RF01 — Visualização das vagas disponíveis**.
 
 ### 📌 `rf03_reservadas.py`
 
-Contém a implementação do **RF03 — Identificação das vagas reservadas**.
+Contém a implementação do **RF04 — Identificação das vagas reservadas**.
 
 ### 📌 `requisitos.txt`
 
@@ -108,7 +108,7 @@ PROTÓTIPO - ESTACIONAMENTO DO CAMPUS
 [RF01] Visualização das vagas disponíveis
 Vagas disponíveis: A01, A03, A05
 
-[RF03] Identificação das vagas reservadas
+[RF04] Identificação das vagas reservadas
 Vagas reservadas para funcionários: A02, B01
 Essas vagas não devem ser consideradas vagas comuns para alunos.
 
