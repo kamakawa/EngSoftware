@@ -5,7 +5,7 @@
 # 2. RF03 - Identificação das vagas reservadas
 
 from rf01_vagas import visualizar_vagas_disponiveis
-from rf03_reservadas import identificar_vagas_reservadas
+from rf04_reservadas import identificar_vagas_reservadas
 
 def main():
     print("Atividade em Sala - Dos Requisitos ao Protótipo Inicial")
@@ -16,7 +16,7 @@ def main():
     visualizar_vagas_disponiveis()
 
     # RF03
-    print("\nRF03 - Identificação das vagas reservadas")
+    print("\nRF04 - Identificação das vagas reservadas")
     identificar_vagas_reservadas()
 
     print("Protótipo executado com sucesso.")
