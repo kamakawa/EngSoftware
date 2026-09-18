@@ -1,0 +1,13 @@
+REQUISITOS IMPLEMENTADOS
+
+RF01 — Visualização das vagas disponíveis
+Como aluno, quero visualizar as vagas disponíveis no estacionamento em tempo real,
+para conseguir saber onde há possibilidade de estacionar, principalmente durante o horário de pico da manhã.
+
+RF03 — Identificação das vagas reservadas
+Como aluno, quero saber quais vagas são reservadas para funcionários,
+principalmente próximas à biblioteca, para evitar estacionar em uma vaga que não é destinada aos alunos.
+
+OBSERVAÇÃO
+O protótipo não define sensores, reportes manuais, banco de dados, notificações ou bloqueios,
+pois essas decisões não foram definidas pelo cliente na primeira parte da atividade.
